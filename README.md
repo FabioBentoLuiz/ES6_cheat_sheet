@@ -1,6 +1,8 @@
 # ES6 Cheat Sheet
+A summary of some ECMAScript 6 new syntaxes.
 
-----------
+The **PDF** version is available [here](https://github.com/FabioBentoLuiz/ES6_cheat_sheet/blob/master/ES6_cheat_sheet.pdf).
+
 ### ‘let’ and ‘const’
 In the past:
 ```javascript
