@@ -162,13 +162,6 @@ function showProduct({ description , price }){
 }
 
 showProduct(product);
-
-
-const products = [
-	'TV',
-  'Computer',
-  'Smartphone'
-];
 ```
 
 ### Destructuring arrays
